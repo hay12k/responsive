@@ -310,9 +310,7 @@ section{
     .about .about-content .right .text{
         font-size: 8px;
     }
-    .left img{
-     width:200px;   
-    }
+    
     
 }
 
@@ -394,5 +392,12 @@ margin: 2opx 0 0 0;
     }
 }
 
+
+@media (max-width: 561px){
+        .about .about-content .left img{
+        height: 327px;
+        width: 199px;
+    }
+}
 
 /*...........f O O T E R.............*/
