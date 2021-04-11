@@ -313,12 +313,12 @@ section{
     .left .content p {
       font-size:16px;
     }
-/*      .main-content{
+     .main-content{
       display: block;
       padding-left: 35px;
-} */
-/*     .skiil{
-    display: block; */
+}
+    .skiil{
+    display: block;
     
     
     
@@ -337,7 +337,7 @@ section{
 
 /*...........S K I L L S.............*/
 .skiil{
-/*     display: flex; */
+    display: flex;
     align-items: center;
     justify-content: center;
     margin: 17px;
