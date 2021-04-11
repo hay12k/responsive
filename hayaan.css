@@ -151,9 +151,9 @@ section{
 }
 .about .about-content{
     display: flex;
-/*     flex-wrap: wrap;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between; */
+    justify-content: space-between;
 }
 .about .about-content .left{
     width: 45%;
@@ -310,7 +310,12 @@ section{
     .about .about-content .right .text{
         font-size:17px;
     }
-    
+    .left .content p {
+      font-size:16px;
+    }
+     .main-content {
+      display: block;
+}
     
 }
 
