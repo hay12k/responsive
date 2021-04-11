@@ -151,9 +151,9 @@ section{
 }
 .about .about-content{
     display: flex;
-    flex-wrap: wrap;
+/*     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; */
 }
 .about .about-content .left{
     width: 45%;
@@ -161,7 +161,7 @@ section{
 .about .about-content .left img{
     height: 300px;
     width: 300px;
-    object-fit: cover;
+    
     border-radius: 6px;
 }
 .about .about-content .right{
