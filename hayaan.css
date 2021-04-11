@@ -399,5 +399,8 @@ margin: 2opx 0 0 0;
         width: 199px;
     }
 }
-
+@media (max-width: 500px)
+.about .about-content .right .text {
+    font-size: 17px !important;
+}
 /*...........f O O T E R.............*/
