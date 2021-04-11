@@ -262,8 +262,8 @@ section{
 }
 @media (max-width: 1104px){
     .about .about-content .left img{
-        height: 250px;
-        width: 250px;
+        height: 327px;
+        width: 199px;
     }
     .about .about-content .right .text{
         font-size: 16px;
@@ -309,6 +309,9 @@ section{
     } 
     .about .about-content .right .text{
         font-size: 8px;
+    }
+    .left img{
+     width:200px;   
     }
     
 }
