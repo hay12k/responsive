@@ -374,25 +374,6 @@ margin: 2opx 0 0 0;
 
 
 
-@media (max-width: 947px){
-    .main-content{
-        display: flex;
-    }
-}    
- @media (max-width: 500px){
-    .main-content .box{
-        flex-basis: 50%;
-        padding: 10px 20px;
-    } 
-    .left{
-        font-size: 50px;
-    }   
-    .content{
-
-    }
-}
-
-
 @media (max-width: 561px){
         .about .about-content .left img{
         height: 327px;
