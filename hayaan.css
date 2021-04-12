@@ -313,6 +313,9 @@ section{
     .left .content p {
       font-size:16px;
     }
+    .main-content{
+    display: block;
+}
     
 }
 
