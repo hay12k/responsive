@@ -6,6 +6,9 @@
     font-family: 'poppins', sans-serif;
     text-decoration: none;
 }
+Body{
+    overflow-x:hidden;
+}
 /*...........H E A D E R.............*/
 .navbar{
     position: fixed;
@@ -207,7 +210,7 @@ section{
 @media (max-width: 947px){
     .max-width{
         padding: 0 50px;
-        Flex-direction:column;
+     
     }
     .menu-brn{
         display: block;
@@ -274,7 +277,7 @@ section{
 @media (max-width: 991px){
     .max-width{
         padding: 0 50px;
-        Flex-Direction:column;
+       
     }
     .about .about-content .right .text{
         font-size: 12px;
@@ -282,9 +285,6 @@ section{
 }
 
 @media (max-width: 690px){
-    .main-contact{
-        Flex-direction:column
-    }
     .max-width{
         padding: 0 23px;
     }
