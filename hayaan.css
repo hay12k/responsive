@@ -273,6 +273,7 @@ section{
 @media (max-width: 991px){
     .max-width{
         padding: 0 50px;
+        Flex-Direction:column;
     }
     .about .about-content .right .text{
         font-size: 12px;
